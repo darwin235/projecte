@@ -18,6 +18,8 @@ public class Contar {
         System.out.println("Introdueix la frase: ");
         frase = lector.nextLine();
         
+
+	//Comentari en el projecte1
         for (int i = 0; i < frase.length();i++) {
             subcadena = frase.substring(i, i+1);
             switch (subcadena) {
