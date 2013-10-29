@@ -8,6 +8,8 @@ public class Contar {
     /**
      * @param args the command line arguments
      */
+
+	//Comentariam en el projecte2
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
         String frase;
