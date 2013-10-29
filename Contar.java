@@ -1,4 +1,4 @@
-﻿/* */
+﻿/*PROJECTE2*/
 package contar;
 
 import java.util.Scanner;
